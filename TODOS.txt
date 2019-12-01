@@ -1,0 +1,9 @@
+ST customization
+Maybe switch to DWM?
+Scale wallpapers to this pis resolution
+i3 custimization
+status bar customization
+vimrc
+bashrc
+zathura configs
+set up for VM environments.
